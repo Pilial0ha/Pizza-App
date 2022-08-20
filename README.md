@@ -16,3 +16,9 @@ Challenges:
   -Working in a group environment for the first time; anticipating mishaps(internet not working, Github not working etc.)
   
 Requirements:
+App accessing data through a public API, HTML/CSS/JS frontend on a single page
+Three event listeners as stated above
+Implement an array iteration using fetch to retrieve our JSON data
+Following good code pracitices
+
+
